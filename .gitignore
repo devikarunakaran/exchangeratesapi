@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.svn
+bin/
+tomcat/
+config/
+.sonatype
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+logs/
